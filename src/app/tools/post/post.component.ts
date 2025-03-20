@@ -1,6 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { PostData } from 'src/app/pages/post-feed/post-feed.component';
-import { FirebaseTSFirestore} from 'firebasets/firebasetsFirestore/firebaseTSFirestore';
+import { FirebaseTSFirestore } from 'firebasets/firebasetsFirestore/FirebaseTSFirestore';
 import { MatDialog } from '@angular/material/dialog';
 import { ReplyComponent } from '../reply/reply.component';
 @Component({
