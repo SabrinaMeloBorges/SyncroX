@@ -1,27 +1,19 @@
-# AngularProject
+SyncroX 🚀
+📖 Sobre o Projeto
+Este é um projeto de rede social desenvolvido durante meu período de estágio. A plataforma permite que os usuários criem perfis personalizados, publiquem fotos, e interajam uns com os outros, criando uma experiência social rica e dinâmica.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.1.
+✨ Funcionalidades
+Autenticação de Usuário: Cadastro e login seguros para acesso à plataforma.
+Perfis Personalizáveis: Crie e edite seu perfil com foto, biografia e outras informações.
+Publicação de Fotos: Compartilhe seus momentos com a comunidade através de posts com imagens.
+Feed de Notícias: Visualize as publicações de outros usuários em tempo real.
+Interações: Curta e comente as publicações de outros usuários (ou adicione outras interações, como seguir/deixar de seguir).
+Responsividade: Design otimizado para diferentes tamanhos de tela (desktop, tablet, mobile).
+🛠️ Tecnologias Utilizadas
+Este projeto foi construído utilizando as seguintes tecnologias:
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+HTML5: Estruturação do conteúdo da página web.
+CSS3: Estilização e design visual da interface do usuário.
+SCSS (Sass): Pré-processador CSS para uma estilização mais organizada e modular.
+JavaScript: Interatividade e lógica do lado do cliente.
+TypeScript: Uma camada superconjunto do JavaScript que adiciona tipagem estática, tornando o código mais robusto e fácil de manter.
